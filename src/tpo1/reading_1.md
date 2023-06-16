@@ -1,5 +1,7 @@
 # TPO 1 - Reading 1
 
+![Intro](https://shayesteh.ir/Files/TpoSkill/Image/2/Groundwater.jpg)
+
 ## saturates
 
 -   fills
@@ -65,13 +67,9 @@
 -   particles
 -   nodes of soil & sand & grain
 
----
-
 ## solid & liquid & gas
 
 -   material modes
-
-![Material Modes](https://shayesteh.ir/Files/TpoSkill/Image/2/Groundwater.jpg)
 
 ### melt
 
@@ -88,8 +86,6 @@
 ### precipitation
 
 -   gas to liquid (rain, snow)
-
----
 
 ## overlie
 
