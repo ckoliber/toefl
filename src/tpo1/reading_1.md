@@ -1,4 +1,4 @@
-# TPO 1
+# TPO 1 - Reading 1
 
 ## saturates
 
@@ -24,12 +24,12 @@
 -   usual
 -   normal
 
-## soak
+## soak, permeation
 
 -   get into
 -   leak
 
-## emerge
+## emerge, drain
 
 -   get out
 -   exit
@@ -42,6 +42,7 @@
 
 -   (شل)
 -   not hard
+-   not cemented
 
 ## coarse
 
@@ -64,22 +65,47 @@
 -   particles
 -   nodes of soil & sand & grain
 
+---
+
 ## solid & liquid & gas
 
 -   material modes
 
-## melt
+![Material Modes](https://shayesteh.ir/Files/TpoSkill/Image/2/Groundwater.jpg)
+
+### melt
 
 -   solid to liquid
 
-## evaporate
+### evaporate
 
 -   liquid to gas
 
-## condensation
+### condensation
 
 -   merge of gasses
 
-## precipitation
+### precipitation
 
 -   gas to liquid (rain, snow)
+
+---
+
+## overlie
+
+-   cover
+
+## minute
+
+-   tiny
+-   small
+
+## pore
+
+-   gap
+-   hole
+
+## proportion of
+
+-   part of
+-   amount of
