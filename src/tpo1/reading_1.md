@@ -30,6 +30,7 @@
 
 -   get into
 -   leak
+-   penetration
 
 ## emerge, drain
 
@@ -43,6 +44,7 @@
 ## loose
 
 -   (شل)
+-   weak
 -   not hard
 -   not cemented
 

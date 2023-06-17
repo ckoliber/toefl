@@ -100,6 +100,7 @@
 
 -   considerable
 -   significant
+-   substantial
 -   notable
 
 ## insulation
