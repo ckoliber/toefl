@@ -66,6 +66,7 @@
 
 -   effect
 -   result
+-   consequence
 
 ## diminished
 
@@ -123,3 +124,82 @@
 -   (شدت)
 -   violence
 -   intensity
+
+## tracts of
+
+-   parts of
+-   piece of
+
+## devoid of
+
+-   void of
+-   empty of
+
+## susceptible
+
+-   (مستعد)
+-   sensitive
+
+## livestock
+
+-   (دام)
+-   animals
+
+## major
+
+-   big
+-   common
+-   primary
+-   dominant
+
+## vegetation
+
+-   vegetables cover
+
+## excessive
+
+-   extreme
+-   too big
+
+## trampling
+
+-   (لگد کردن)
+
+## pulverization
+
+-   (پودر شدن)
+
+## surrounded by
+
+-   contained by
+-   restricted by
+
+## substitute
+
+-   alternative
+
+## salinization
+
+-   (شور شدن)
+-   salting
+
+## sink
+
+-   dive
+-   go down
+
+## dissolved
+
+-   (حل شده)
+-   [salt solved]
+
+## tremendous
+
+-   vast
+-   so big
+-   massive
+
+## rigorously
+
+-   rigid
+-   strictly
