@@ -1,6 +1,6 @@
 # TOEFL
 
-TOEFL is a set of markdown decks of TPO words.
+TOEFL is a set of markdown decks of TPO words and templates for Writing and Speaking.
 
 ## Contributing
 
