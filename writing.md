@@ -1,6 +1,6 @@
 # Writing
 
-## Task 1 (Integrated)
+## Task 1 (Integrated) (Text + Voice(Contrast) => Summary)
 
 -   4 paragraphs
 -   20 minutes
@@ -27,9 +27,9 @@ lecturer disputes the ideas presented in the article.
 
 Firstly, the passage <passage common>. <passage details>. However, the lecture <lecture common>. <lecture details>.
 
-Secondly, the passage <passage common>. <passage details>. However, the lecture <lecture common>. <lecture details>.
+Secondly, the passage <passage common>. <passage details>. Moreover, the lecture <lecture common>. <lecture details>.
 
-Finally, the passage <passage common>. <passage details>. However, the lecture <lecture common>. <lecture details>.
+Finally, the passage <passage common>. <passage details>. Nevertheless, the lecture <lecture common>. <lecture details>.
 ```
 
 ### Examples
@@ -42,7 +42,7 @@ Finally, the passage <passage common>. <passage details>. However, the lecture <
 
 **Finally**, **the author mentions** asteroids can play a pivotal role in humans' survival in the long run. Building colonies on asteroids could ensure the survival of humanity after a possible future catastrophe such as a war or meteor strike, or more simply, they can offer us answers to questions about our origins. **Notwithstanding**, **the lecturer’s stance is that** human settlements would have to be designed to deal with the adverse conditions on asteroids. Due to low gravity on asteroids, there would be challenges regarding moving around that can negatively impact bones and muscles, which are highly inconvenient and hazardous during time.
 
-## Task 2 (Academic Discussion)
+## Task 2 (Academic Discussion) (Text -> (Text + Text) => Idea)
 
 -   1 paragraph
 -   10 minutes
