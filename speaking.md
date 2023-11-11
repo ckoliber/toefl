@@ -8,11 +8,12 @@
 
 You will be asked about a title, tell your opinion (**Reading - Speaking**).
 
--   (`Slot`) Extract **opinion** (`+/-`)
--   (`Slot`) Extract **reason 1**
-    -   (`Slot`) Extract **example**
--   (`Slot`) Extract **reason 2**
-    -   (`Slot`) Extract **example**
+-   (`Passage`) 50-secs **reading question**
+    -   (`Slot`) Extract **opinion** (`+/-`)
+    -   (`Slot`) Extract **reason 1**
+        -   (`Slot`) Extract **example**
+    -   (`Slot`) Extract **reason 2**
+        -   (`Slot`) Extract **example**
 
 ### Template
 
@@ -42,26 +43,26 @@ The second reason is, <reason>. <development>. [so <idea positive> <reason solve
 -   30 seconds prepare
 -   60 seconds speak
 
-Campus announcement (about a change) and conversation(agree/disagree), summerization (**Reading - Listening - Speaking**).
+Campus announcement(about a change) and conversation(agree/disagree), summerization (**Reading - Listening - Speaking**).
 
--   (`Passage +`) 50-secs **reading describe**
+-   (`Passage`) 50-secs **reading describe**
     -   (`Slot`) Extract **change** (`X -> Y`)
     -   (`Slot`) Extract **reason 1**
     -   (`Slot`) Extract **reason 2**
--   (`Lecture -`) 2-mins **listening against**
-    -   (`Slot`) Extract **accept/reject reason 1**
-    -   (`Slot`) Extract **accept/reject reason 2**
+-   (`Lecture`) 2-mins **listening against** (`+/-`)
+    -   (`Slot`) Extract **opinion 1**
+    -   (`Slot`) Extract **opinion 2**
 
 ### Template
 
 ```txt
-According to the announcement/letter, <summary main change>, because <summary reason 1, 2>.
+According to the announcement/letter, <summary change>, because <summary reason 1, 2>.
 
 The main speaker in the conversation strongly supports/rejects the idea.
 
-She/He believes that <reject/accept reason 1>.
+She/He believes that <opinion 1>.
 
-Also she/he believes that <reject/accept reason 2>.
+Also she/he believes that <opinion 2>.
 ```
 
 ### Examples
@@ -78,7 +79,7 @@ Also she/he believes that <reject/accept reason 2>.
 
 ## Task 3 (Integrated) (Text + Voice(Example) => Summary)
 
--   3 paragraphs
+-   3-4 paragraphs
 -   30 seconds prepare
 -   60 seconds speak
 
@@ -86,7 +87,7 @@ Academic reading and lecture(example), summerization (**Reading - Listening - Sp
 
 -   (`Passage`) 45-secs **reading topic**
     -   (`Slot`) Extract **topic**
-    -   (`Slot`) Extract **details**
+    -   (`Slot`) Extract **definition**
 -   (`Lecture`) 2-mins **listening example**
     -   (`Slot`) Extract **example 1**
     -   (`Slot`) Extract **example 2**
@@ -94,17 +95,49 @@ Academic reading and lecture(example), summerization (**Reading - Listening - Sp
 ### Template
 
 ```txt
-The text explains the concept of <topic>.
+The text explains the concept of <topic>, which actually is <definition>.
 
-Actually it is <details>.
+The professor clarifies this concept by providing 1/2 example about it.
 
-The professor clarifies by providing an example about <example 1>.
+He/She states that <example 1>.
+
+[In the second example, <example 2>].
 ```
+
+### Examples
+
+> Although they may not realize it, people do not always manage their money in a responsible way. In their minds, people tend to divide their money into different categories as if they were putting it into separate mental bank accounts. This tendency is known as mental accounting. People mentally store some money in one account to be saved, while they imagine other money being stored in another account from which money can be taken and freely spent. Mental accounting can lead people to spend more money than they should, which can make it difficult for them to save enough money to achieve their long-term financial goals.
+
+**The text explains the concept of** Mental Accounting, **which actually is** a tendency of people who want to manage their money in separate bank accounts, one account as storage and another for free usage. Mental Accounting may lead people to spend more money and make saving money difficult.
+
+The professor clarifies this concept by providing one example about it.
+
+He states that when he was younger, he has two separate jobs, he worked in office as his regular job in regular days of the week, also he worked as a waiter in a restaurant in weekends. he stores his money from separate jobs into separate bank accounts. Someday he wants to buy a house, he tried to earn money but he find out that he is only storing money from his main job bank account, but he could use his second bank account to buy the house faster.
 
 ## Task 4 (Integrated) (Voice => Summary)
 
--   3 paragraphs
+-   4 paragraphs
 -   20 seconds prepare
 -   60 seconds speak
 
 Academic lecture, summerization (**Listening - Speaking**).
+
+-   (`Lecture`) 3-mins **listening lecture**
+    -   (`Slot`) Extract **topic**
+    -   (`Slot`) Extract **definition**
+    -   (`Slot`) Extract **category 1**
+        -   (`Slot`) Extract **example 1**
+    -   (`Slot`) Extract **category 2**
+        -   (`Slot`) Extract **example 2**
+
+### Template
+
+```txt
+The professor explains the concept of <topic>, which actually is <definition>.
+
+He introduces two <part/feature/...> of this topic.
+
+The first one is <category 1>, As example <example 1>.
+
+The second one is <category 2>, As example <example 2>.
+```
