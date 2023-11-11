@@ -18,7 +18,7 @@ You will be asked about a title, tell your opinion (**Reading - Speaking**).
 ### Template
 
 ```txt
-I prefer <idea positive> over <idea negative>.
+I strongly advocate/refute the idea that <opinion>.
 
 The first reason is, <reason>. <development>. [so <idea positive> <reason solve>].
 
